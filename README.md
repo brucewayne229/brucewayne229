@@ -2,7 +2,7 @@
 
 I'm **Alex**, a Front-end developer from **Vietnam** <img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-vietnam-flags-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png" width="28" />. My Technology Stack:
 
-<table>
+
   <tr>
     <td align="center" width="160">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="60" />
@@ -30,7 +30,7 @@ I'm **Alex**, a Front-end developer from **Vietnam** <img src="https://img.icons
        Reactjs
     </td>
   </tr>
-</table>
+
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
 <br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
