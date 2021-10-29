@@ -46,7 +46,7 @@ I'm **Alex**, a Front-end developer from **Vietnam** <img src="https://img.icons
 
 <kbd>2021-10-29</kbd>
 
-- 愿 勇气大于恐惧 热爱胜于枯燥
+- "Whatever you lose, you'll find it again. But what you throw away you'll never get back." —— Kenshin Himura
 
 <!-- Randomly taken from quotations.md -->
 
