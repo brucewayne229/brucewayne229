@@ -1,6 +1,6 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h2>
 
-I'm **Alex**, a Front-end developer from **Vietnam** <img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-vietnam-flags-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png" width="28" />. Technology Stack:
+I'm **Alex**, a Front-end developer from **Vietnam** <img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-vietnam-flags-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png" width="28" />. My Technology Stack:
 
 <table>
   <tr>
