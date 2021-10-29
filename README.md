@@ -10,22 +10,22 @@ I'm **Alex**, a Front-end developer from **Vietnam** <img src="https://img.icons
         HTML5
     </td>
     <td align="center" width="160">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="50" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="60" />
         <br />
        CSS3
     </td>
     <td align="center" width="160">
-     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="50" />
+     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="60" />
         <br />
         Javascript
     </td>
     <td align="center" width="160">
-     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="50" />
+     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="60" />
         <br />
         Nodejs
     </td>
     <td align="center" width="160">
-       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="50" />
+       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="60" />
         <br />
        Reactjs
     </td>
