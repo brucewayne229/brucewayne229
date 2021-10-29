@@ -33,11 +33,11 @@ I'm **Alex**, a Front-end developer from **Vietnam** <img src="https://img.icons
 </table>
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
-[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)]()
-[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)]()
-[![](https://img.shields.io/badge/-meetup-EE3E5D?style=flat-square)]()
-[![](https://img.shields.io/badge/-resume-332B40?style=flat-square)]()
-[![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)]()
+<br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
+  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
+  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/5ck1H)
+  [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)
+</p>
 
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/alexnguyen229/alexnguyen229/blob/main/quotations.md"> Daily Quotes</a></h3>
