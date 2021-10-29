@@ -39,6 +39,7 @@ I'm **Alex**, a Front-end developer from **Vietnam** <img src="https://img.icons
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/62YaIXgT)
 </p>
 ## Now Listening
+
 [![Spotify](https://spotify-now-playing-lime.vercel.app/api/spotify)](https://open.spotify.com/user/315kuybxtkni5nlh3yseopqgn2pu)
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/alexnguyen229/alexnguyen229/blob/main/quotations.md"> Daily Quotes</a></h3>
