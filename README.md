@@ -51,5 +51,5 @@ I'm **Alex**, a Front-end developer from **Vietnam** <img src="https://img.icons
 <!-- Randomly taken from quotations.md -->
 
 <p align="right">
-<img src="https://visitor-badge.glitch.me/badge?page_id=xrkffgg.xrkffgg" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=alexnguyen229.alexnguyen229" />
 </p>
