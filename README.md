@@ -5,7 +5,7 @@ I'm **Alex**, a Front-end developer from **Vietnam** <img src="https://img.icons
 <table>
   <tr>
     <td align="center" width="160">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="50" />
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="60" />
         <br />
         HTML5
     </td>
