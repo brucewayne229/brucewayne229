@@ -41,7 +41,7 @@ I'm **Alex**, a Front-end developer from **Vietnam** <img src="https://img.icons
 
 ## Now Listening
 
- [![Preview](https://itstommi.vercel.app/api?scan=true)](https://open.spotify.com/user/315kuybxtkni5nlh3yseopqgn2pu)
+[<img src="https://novatorem/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/alexnguyen)
  
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/alexnguyen229/alexnguyen229/blob/main/quotations.md"> Daily Quotes</a></h3>
