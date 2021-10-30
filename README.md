@@ -39,7 +39,7 @@ I'm **Alex**, a Front-end developer from **Vietnam** <img src="https://img.icons
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/62YaIXgT)
 </p>
 
-## Now Listening
+## Now Listening <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 [<img src="https://novatorem.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/315kuybxtkni5nlh3yseopqgn2pu)
  
