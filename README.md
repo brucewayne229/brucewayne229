@@ -35,7 +35,7 @@ I'm **Alex**, a Front-end developer from **Vietnam** <img src="https://img.icons
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
 <br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
-  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/đạt-nguyễn-ngọc)
+  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/%C4%91%E1%BA%A1t-nguy%E1%BB%85n-ng%E1%BB%8Dc-a8aa84211/)
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/62YaIXgT)
 </p>
 
