@@ -42,8 +42,8 @@ I'm **Alex**, a Front-end developer from **Vietnam** <img src="https://img.icons
 ## <img height="40" src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif"/>Now Playing on Spotify 
 
 
-[<img src="https://spotify-readme-seven-mu.vercel.app/api" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/315kuybxtkni5nlh3yseopqgn2pu)
- 
+[![Spotify](https://lisaaaqq.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/alexnguyen229/alexnguyen229/blob/main/quotations.md">Random Daily Quotes</a></h3>
 
