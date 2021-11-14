@@ -47,9 +47,9 @@ I'm **Alex**, a Front-end developer from **Vietnam** <img src="https://img.icons
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/alexnguyen229/alexnguyen229/blob/main/quotations.md">Random Daily Quotes</a></h3>
 
-<kbd>2021-11-13</kbd>
+<kbd>2021-11-14</kbd>
 
-- “Human beings are strong because we can change ourselves.” —— Saitama
+- “It will do no good to fight with hate in your heart.” —— Yugi Muto
 
 <!-- Randomly taken from quotations.md -->
 
