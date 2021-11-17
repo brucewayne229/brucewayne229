@@ -47,9 +47,9 @@ I'm **Alex**, a Front-end developer from **Vietnam** <img src="https://img.icons
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/alexnguyen229/alexnguyen229/blob/main/quotations.md">Random Daily Quotes</a></h3>
 
-<kbd>2021-11-16</kbd>
+<kbd>2021-11-17</kbd>
 
-- Good morning, and in case I don't see you, good afternoon, good evening, and good night! —— The Truman Show
+- "Fear is freedom! Subjugation is liberation! Contradiction is truth! Those are the facts of this world! And you will all surrender to them, you pigs in human clothing!"  —— Satsuki Kiryuuin (Kill la Kill) 
 
 <!-- Randomly taken from quotations.md -->
 
