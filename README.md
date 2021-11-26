@@ -47,9 +47,9 @@ I'm **Alex**, a Front-end developer from **Vietnam** <img src="https://img.icons
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/alexnguyen229/alexnguyen229/blob/main/quotations.md">Random Daily Quotes</a></h3>
 
-<kbd>2021-11-25</kbd>
+<kbd>2021-11-26</kbd>
 
-- “People’s lives don’t end when they die. It ends when they lose faith.” —— Itachi Uchiha 
+- "People, who can’t throw something important away, can never hope to change anything." —— Armin Arlert (Shingeki no Kyojin / Attack on Titan)
 
 <!-- Randomly taken from quotations.md -->
 
