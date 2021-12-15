@@ -47,9 +47,9 @@ I'm **Alex**, a Front-end developer from **Vietnam** <img src="https://img.icons
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/alexnguyen229/alexnguyen229/blob/main/quotations.md">Random Daily Quotes</a></h3>
 
-<kbd>2021-12-14</kbd>
+<kbd>2021-12-15</kbd>
 
-- "People, who can’t throw something important away, can never hope to change anything." —— Armin Arlert (Shingeki no Kyojin / Attack on Titan)
+- “If you don’t like your destiny, don’t accept it. Instead, have the courage to change it the way you want it to be.” —— Uzumaki Naruto
 
 <!-- Randomly taken from quotations.md -->
 
