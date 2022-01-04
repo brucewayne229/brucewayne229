@@ -47,9 +47,9 @@ I'm **Alex**, a Front-end developer from **Vietnam** <img src="https://img.icons
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/alexnguyen229/alexnguyen229/blob/main/quotations.md">Random Daily Quotes</a></h3>
 
-<kbd>2022-01-03</kbd>
+<kbd>2022-01-04</kbd>
 
-- “I don’t care if no one like me, I wasn’t created in this world to entertain everyone.” —— Houtarou Oreki 
+- “Whatever you lose, you’ll find it again. But what you throw away you’ll never get back.” —— Kenshin Himura 
 
 <!-- Randomly taken from quotations.md -->
 
