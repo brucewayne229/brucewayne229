@@ -47,9 +47,9 @@ I'm **Alex**, a Front-end developer from **Vietnam** <img src="https://img.icons
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/alexnguyen229/alexnguyen229/blob/main/quotations.md">Random Daily Quotes</a></h3>
 
-<kbd>2022-01-22</kbd>
+<kbd>2022-01-23</kbd>
 
-- “The loneliest people are the kindest. The saddest people smile the brightest. The most damaged people are the wisest. All because they don’t wish to see anyone else suffer the way they did.” —— Jellal Fernandes 
+- “Human beings are strong because we can change ourselves.” —— Saitama
 
 <!-- Randomly taken from quotations.md -->
 
