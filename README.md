@@ -47,9 +47,9 @@ I'm **Alex**, a Front-end developer from **Vietnam** <img src="https://img.icons
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/alexnguyen229/alexnguyen229/blob/main/quotations.md">Random Daily Quotes</a></h3>
 
-<kbd>2022-01-29</kbd>
+<kbd>2022-01-30</kbd>
 
-- “There are no regrets. If one can be proud of one’s life, one should not wish for another chance.” —— Saber
+- “I don’t care if no one like me, I wasn’t created in this world to entertain everyone.” —— Houtarou Oreki 
 
 <!-- Randomly taken from quotations.md -->
 
