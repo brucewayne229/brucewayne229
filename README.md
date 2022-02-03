@@ -47,9 +47,9 @@ I'm **Alex**, a Front-end developer from **Vietnam** <img src="https://img.icons
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/alexnguyen229/alexnguyen229/blob/main/quotations.md">Random Daily Quotes</a></h3>
 
-<kbd>2022-02-02</kbd>
+<kbd>2022-02-03</kbd>
 
-- "People, who can’t throw something important away, can never hope to change anything." —— Armin Arlert (Shingeki no Kyojin / Attack on Titan)
+- “The loneliest people are the kindest. The saddest people smile the brightest. The most damaged people are the wisest. All because they don’t wish to see anyone else suffer the way they did.” —— Jellal Fernandes 
 
 <!-- Randomly taken from quotations.md -->
 
