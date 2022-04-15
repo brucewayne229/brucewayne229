@@ -47,9 +47,9 @@ I'm **Trevor**, a Front-end developer from **Vietnam** <img src="https://img.ico
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/alexnguyen229/alexnguyen229/blob/main/quotations.md">Random Daily Quotes</a></h3>
 
-<kbd>2022-04-14</kbd>
+<kbd>2022-04-15</kbd>
 
-- “It will do no good to fight with hate in your heart.” —— Yugi Muto
+- Good morning, and in case I don't see you, good afternoon, good evening, and good night! —— The Truman Show
 
 <!-- Randomly taken from quotations.md -->
 
