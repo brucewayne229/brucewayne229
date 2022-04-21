@@ -47,9 +47,9 @@ I'm **Trevor**, a Front-end developer from **Vietnam** <img src="https://img.ico
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/alexnguyen229/alexnguyen229/blob/main/quotations.md">Random Daily Quotes</a></h3>
 
-<kbd>2022-04-20</kbd>
+<kbd>2022-04-21</kbd>
 
-- “There are no regrets. If one can be proud of one’s life, one should not wish for another chance.” —— Saber
+- “Human beings are strong because we can change ourselves.” —— Saitama
 
 <!-- Randomly taken from quotations.md -->
 
