@@ -47,9 +47,9 @@ I'm **Trevor**, a Front-end developer from **Vietnam** <img src="https://img.ico
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/alexnguyen229/alexnguyen229/blob/main/quotations.md">Random Daily Quotes</a></h3>
 
-<kbd>2022-05-01</kbd>
+<kbd>2022-05-02</kbd>
 
-- "Fear is freedom! Subjugation is liberation! Contradiction is truth! Those are the facts of this world! And you will all surrender to them, you pigs in human clothing!"  —— Satsuki Kiryuuin (Kill la Kill) 
+- “Whatever you lose, you’ll find it again. But what you throw away you’ll never get back.” —— Kenshin Himura 
 
 <!-- Randomly taken from quotations.md -->
 
