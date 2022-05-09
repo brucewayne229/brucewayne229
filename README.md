@@ -47,9 +47,9 @@ I'm **Trevor**, a Front-end developer from **Vietnam** <img src="https://img.ico
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/alexnguyen229/alexnguyen229/blob/main/quotations.md">Random Daily Quotes</a></h3>
 
-<kbd>2022-05-08</kbd>
+<kbd>2022-05-09</kbd>
 
-- “Life is not a game of luck. If you wanna win, work hard.” —— Sora
+- “Don’t give up, there’s no shame in falling down! True shame is to not stand up again!” —— Shintaro Midorima (Kuroko No Basket) 
 
 <!-- Randomly taken from quotations.md -->
 
