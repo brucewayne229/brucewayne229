@@ -47,9 +47,9 @@ I'm **Dat**, a Front-end developer from **Vietnam** <img src="https://img.icons8
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/alexnguyen229/alexnguyen229/blob/main/quotations.md">Random Daily Quotes</a></h3>
 
-<kbd>2022-06-19</kbd>
+<kbd>2022-06-20</kbd>
 
-- “Sometimes you must hurt in order to know, fall in order to grow, lose in order to gain.” – Pain (Nagato) 
+- “If you don’t like your destiny, don’t accept it. Instead, have the courage to change it the way you want it to be.” —— Uzumaki Naruto
 
 <!-- Randomly taken from quotations.md -->
 
