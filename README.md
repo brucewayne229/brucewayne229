@@ -47,9 +47,9 @@ I'm **Dat**, a Front-end developer from **Vietnam** <img src="https://img.icons8
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/alexnguyen229/alexnguyen229/blob/main/quotations.md">Random Daily Quotes</a></h3>
 
-<kbd>2022-06-28</kbd>
+<kbd>2022-06-29</kbd>
 
-- “I don’t care if no one like me, I wasn’t created in this world to entertain everyone.” —— Houtarou Oreki 
+- “The loneliest people are the kindest. The saddest people smile the brightest. The most damaged people are the wisest. All because they don’t wish to see anyone else suffer the way they did.” —— Jellal Fernandes 
 
 <!-- Randomly taken from quotations.md -->
 
