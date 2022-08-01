@@ -47,9 +47,9 @@ I'm **Dat**, a Front-end developer from **Vietnam** <img src="https://img.icons8
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/alexnguyen229/alexnguyen229/blob/main/quotations.md">Random Daily Quotes</a></h3>
 
-<kbd>2022-07-31</kbd>
+<kbd>2022-08-01</kbd>
 
-- “The loneliest people are the kindest. The saddest people smile the brightest. The most damaged people are the wisest. All because they don’t wish to see anyone else suffer the way they did.” —— Jellal Fernandes 
+- "Whatever you lose, you'll find it again. But what you throw away you'll never get back." —— Kenshin Himura
 
 <!-- Randomly taken from quotations.md -->
 
