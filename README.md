@@ -42,7 +42,7 @@ I'm **Dat**, a Front-end developer from **Vietnam** <img src="https://img.icons8
 ## <img height="40" src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif"/>Now Playing on Spotify 
 
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/315kuybxtkni5nlh3yseopqgn2pu)
+[![Spotify](https://vatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/315kuybxtkni5nlh3yseopqgn2pu)
 
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/alexnguyen229/alexnguyen229/blob/main/quotations.md">Random Daily Quotes</a></h3>
